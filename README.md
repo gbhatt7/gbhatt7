@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav Bhatt.
+- 👋 Hi, I’m Gaurav Bhatt aka ORBIT.
 - 👀 I’m interested in ML, AI, Development of web & aaps and Robotics.
 - 🌱 I’m currently learning Python,C,a bit of CSS and Html.
 - 💞️ I’m looking to collaborate on ...
